@@ -1,0 +1,13 @@
+.album_url {
+    & > img {
+        width: 190px;
+        border-radius: 0.5em;
+    }
+}
+.album_name {
+    // text-decoration: blink;
+    text-shadow: 10px 11px 5px red;
+    text-transform: uppercase;
+    font-weight: bold;
+    // background-color: #ff0040cb;
+}
